@@ -10,4 +10,4 @@ Lab 4 Response:
 
 5. Making sure communication between the services is in the correct state is hard. Our bases have their own database, so we have to keep track of multiple services. There are different dependencies and services we used to make that communication process as simple as possible.
 
-6. The tests run in their own container, free from the old data of previous tests. They also were easy to implement with spring boot test****
+6. The tests run in their own container, free from the old data of previous tests. They also were easy to implement with spring boot test
